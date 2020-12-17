@@ -1,2 +1,2 @@
-# Leetcode_code
+# Leetcode
 test taking
